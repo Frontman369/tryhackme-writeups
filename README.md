@@ -2,7 +2,9 @@
 
 Welcome! This repository contains my writeups while learning cybersecurity.
 
-## Rooms Completed
+## Modules Completed
 - Intro to Cyber Security
-- Nmap
-- Linux Fundamentals
+- Network Fundamentals
+- How The Web Works
+- Computer Fundamentals
+- Operating Systems Basics (Currently in)
