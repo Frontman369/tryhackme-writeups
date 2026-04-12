@@ -33,20 +33,20 @@ Covered core fundamentals including:
 
 ---
 
-## 📝 Writeups
+## 📝 Writeups (Newest → Oldest)
 
-- Windows CLI Basics  
-- Linux CLI Basics  
-- Cryptography Concepts  
-- Operating System Security  
-- The CIA Triad  
-- Python: Simple Demo  
-- JavaScript: Simple Demo  
-- OSI Model  
-- Database SQL Basics  
-- Data Encoding  
-- Become a Hacker  
-- Become a Defender  
+- [Become a Defender](writeups/become-a-defender.md)  
+- [Become an Attacker](writeups/become-a-hacker.md)  
+- [Database SQL Basics](writeups/database-sql-basics.md)  
+- [JavaScript: Simple Demo](writeups/javascript-simple-demo.md)  
+- [Python: Simple Demo](writeups/python-simple-demo.md)  
+- [Operating System Security](writeups/operating_system_security.md)  
+- [Windows CLI Basics](writeups/windows-cli_basics.md)  
+- [Linux CLI Basics](writeups/linux-cli-basics.md)  
+- [OSI Model](writeups/osi-model.md)  
+- [Cryptography Concepts](writeups/cryptography-concepts.md)  
+- [The CIA Triad](writeups/The-CIA-Triad.md)  
+- [Data Encoding](writeups/data-encoding.md)
 
 (*More coming as I progress...*)
 
