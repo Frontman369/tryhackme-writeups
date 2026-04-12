@@ -55,7 +55,8 @@ Covered core fundamentals including:
 ## 🏆 Certifications
 
 - 🛡️ TryHackMe – Pre Security Learning Path  
-  - Completed 31 hands-on labs covering networking, web, and security fundamentals  
+  - Completed 31 hands-on labs covering networking, web, and security fundamentals
+  - 📄 [View Certificate](certifications/pre-security-path.pdf)
 
 ---
 
