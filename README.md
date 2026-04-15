@@ -30,12 +30,14 @@ Covered core fundamentals including:
 
 ### Cyber Security 101 (In Progress)
 - 🔍 Search Skills
+- Linux Fundamentals
 
 ---
 
 ## 📝 Writeups (Newest → Oldest)
 
-- [Become a Defender](become-a-defender.md)  
+- [Linux Fundamentals](linux-fundamentals.md)
+- [Become a Defender](become-a-defender.md)
 - [Become a Hacker](become-a-hacker.md)  
 - [Database SQL Basics](database-sql-basics.md)  
 - [JavaScript: Simple Demo](javascript-simple-demo.md)  
