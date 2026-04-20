@@ -30,12 +30,13 @@ Covered core fundamentals including:
 
 ### Cyber Security 101 (In Progress)
 - 🔍 Search Skills
-- Linux Fundamentals
-
+- [Linux Fundamentals](linux-fundamentals.md)
+- [Windows and AD Fundamentals](windows-and-ad-fundamentals.md)
 ---
 
 ## 📝 Writeups (Newest → Oldest)
 
+- [Windows and AD Fundamentals](windows-and-ad-fundamentals.md)
 - [Linux Fundamentals](linux-fundamentals.md)
 - [Become a Defender](become-a-defender.md)
 - [Become a Hacker](become-a-hacker.md)  
