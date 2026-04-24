@@ -32,10 +32,18 @@ Covered core fundamentals including:
 - 🔍 Search Skills
 - [Linux Fundamentals](linux-fundamentals.md)
 - [Windows and AD Fundamentals](windows-and-ad-fundamentals.md)
+- [Windows Command Line](windows-command-line.md)
+- [Windows PowerShell](windows-powershell.md)
+- [Linux Shells](linux-shells.md)
+- [PaperCut: CVE-2023-27350](PaperCut-CVE-2023-27350.md)
 ---
 
 ## 📝 Writeups (Newest → Oldest)
 
+- [PaperCut: CVE-2023-27350](PaperCut-CVE-2023-27350.md)
+- [Linux Shells](linux-shells.md)
+- [Windows PowerShell](windows-powershell.md)
+- [Windows Command Line](windows-command-line.md)
 - [Windows and AD Fundamentals](windows-and-ad-fundamentals.md)
 - [Linux Fundamentals](linux-fundamentals.md)
 - [Become a Defender](become-a-defender.md)
