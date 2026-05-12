@@ -1,20 +1,20 @@
-# 🛡️ TryHackMe Writeups
+# TryHackMe Writeups
 
 This repository documents my hands-on journey into cybersecurity through TryHackMe labs and learning paths.
 
 ---
 
-## 🎯 About Me
+## About Me
 
-- 🌱 Currently learning: Cybersecurity fundamentals & offensive security  
-- 🧠 Focus: Building strong foundations before moving into penetration testing  
-- 🚀 Goal: Become skilled in offensive security and real-world pentesting  
+- Currently learning: Cybersecurity fundamentals & offensive security  
+- Focus: Building strong foundations before moving into penetration testing  
+- Goal: Become skilled in offensive security and real-world pentesting  
 
 ---
 
-## 📚 Learning Progress
+## Learning Progress
 
-### ✅ Pre Security Path (Completed)
+### Pre Security Path (Completed)
 
 Covered core fundamentals including:
 - Introduction to Cyber Security
@@ -26,7 +26,7 @@ Covered core fundamentals including:
 
 ---
 
-## 🚧 Current Path
+## Current Path
 
 ### Cyber Security 101 (In Progress)
 - 🔍 Search Skills
@@ -36,10 +36,24 @@ Covered core fundamentals including:
 - [Windows PowerShell](windows-powershell.md)
 - [Linux Shells](linux-shells.md)
 - [PaperCut: CVE-2023-27350](PaperCut-CVE-2023-27350.md)
+- [Networking Concepts](networking-concepts.md)
+- [Networking Essentials](networking-essentials.md)
+- [Networking Core Protocols](networking-core-protocols.md)
+- [Networking Secure Protocols](networking-secure-protocols.md)
+- [Wireshark: The Basics](wireshark-the-basics.md)
+- [Tcpdump: The Basics](tcpdump-the-basics.md)
+- [Nmap: The Basics](nmap-the-basics.md)
 ---
 
-## 📝 Writeups (Newest → Oldest)
+## Writeups (Newest → Oldest)
 
+- [Nmap: The Basics](nmap-the-basics.md)
+- [Tcpdump: The Basics](tcpdump-the-basics.md)
+- [Wireshark: The Basics](wireshark-the-basics.md)
+- [Networking Secure Protocols](networking-secure-protocols.md)
+- [Networking Core Protocols](networking-core-protocols.md)
+- [Networking Essentials](networking-essentials.md)
+- [Networking Concepts](networking-concepts.md)
 - [PaperCut: CVE-2023-27350](PaperCut-CVE-2023-27350.md)
 - [Linux Shells](linux-shells.md)
 - [Windows PowerShell](windows-powershell.md)
@@ -63,20 +77,20 @@ Covered core fundamentals including:
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
-- 🛡️ TryHackMe – Pre Security Learning Path  
+- TryHackMe – Pre Security Learning Path  
   - Completed 31 hands-on labs covering networking, web, and security fundamentals
-  - 📄 [View Certificate](certifications/pre-security-path.pdf)
+  - [View Certificate](certifications/pre-security-path.pdf)
 
 ---
 
-## ⚡ Note
+## Note
 
 These writeups reflect my personal learning journey. Some may be basic as I am currently building my foundations, but they will improve over time as I gain more experience.
 
 ---
 
-## 🔥 Mindset
+## Mindset
 
 > Consistency over perfection.
